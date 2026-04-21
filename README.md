@@ -10,7 +10,8 @@ A Claude Code plugin for interfacing with a [Music Assistant](https://www.music-
 - `control-player` — play / pause / stop / skip / set volume on a named player.
 - `save-dsp-settings` — snapshot a player's current DSP (EQ + filters) configuration to disk as a named preset.
 - `update-dsp-settings` — apply a saved DSP preset (or ad-hoc values) to a player.
-- `reference` — shared reference on the Music Assistant API shape, auth, and endpoint patterns.
+- `apply-podcast-preset` — push a curated parametric-EQ preset tuned for spoken-word / podcast listening (full-range or small-speaker variant).
+- `reference` — shared reference on the Music Assistant API shape, auth, DSP schema, and endpoint patterns. Grounded against the official docs at https://www.music-assistant.io/api/.
 
 ## Installation
 

@@ -1,6 +1,6 @@
 {
   "name": "media-assistant-ops",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Interface with a Music Assistant server via its local API — control players, manage queues, and save/update DSP settings.",
   "author": {
     "name": "Daniel Rosehill",
