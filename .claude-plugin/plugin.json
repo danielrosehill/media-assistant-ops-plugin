@@ -1,0 +1,12 @@
+{
+  "name": "media-assistant-ops",
+  "version": "1.0.0",
+  "description": "Interface with a Music Assistant server via its local API — control players, manage queues, and save/update DSP settings.",
+  "author": {
+    "name": "Daniel Rosehill",
+    "url": "https://github.com/danielrosehill"
+  },
+  "repository": "https://github.com/danielrosehill/media-assistant-ops-plugin",
+  "license": "MIT",
+  "keywords": ["music-assistant", "home-audio", "smart-home", "dsp", "automation"]
+}
